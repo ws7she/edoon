@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/FortAwesome/Font-Awesome.git",
+    "name": "font-awesome",
+    "main": "index.js",
+    "description": "The iconic font and CSS framework",
+    "version": "4.5.0",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {}
+}

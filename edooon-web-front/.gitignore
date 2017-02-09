@@ -1,0 +1,11 @@
+.DS_Store
+
+.idea
+
+
+node_modules
+
+.tags/
+.tags2/
+.DS_Store/
+output

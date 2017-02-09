@@ -1,0 +1,6 @@
+{
+    "version": "0.3.11",
+    "repos": "https://github.com/fabien-d/alertify.js.git",
+    "name": "alertify",
+    "main": "alertify.js"
+}

@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/cuidingfeng/icheck.git",
+    "version": "1.0.2",
+    "name": "icheck",
+    "description": "Highly customizable checkboxes and radio buttons (jQuery & Zepto)",
+    "main": "icheck.js"
+}

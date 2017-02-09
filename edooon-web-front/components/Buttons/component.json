@@ -1,0 +1,6 @@
+{
+    "version": "2.0",
+    "repos": "https://github.com/alexwolfe/Buttons.git",
+    "name": "Button",
+    "main": "scss/buttons.scss"
+}
